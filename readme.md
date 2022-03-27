@@ -1,3 +1,4 @@
 # Kokoa Clone 2022
 
-HTML and CSS are so much fun
+Let's create something.. Clone Coding
+2022.03.25 ~
