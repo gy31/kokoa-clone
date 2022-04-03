@@ -1,0 +1,37 @@
+.user-component {
+    justify-content: space-between;
+}
+.user-component,
+.user-component__column:first-child {
+    display: flex;
+    align-items: center;
+}
+.user-component__avatar {
+    width: 65px;
+    height: 65px;
+    border-radius: 30%;
+    margin-right: 20px;
+}
+.user-component__title {
+    font-weight: 650;
+    font-size: 19px;
+}
+.user-component__subtitle {
+    margin-top: 12px;
+    color: rgba(0,0,0,0.5);
+    font-size: 15px;
+}
+.user-component__avatar--xl {
+    width: 75px;
+    height: 75px;
+}
+.user-component__avatar--sm {
+    width: 60px;
+    height: 60px;
+}
+.user-component__title--not-bold {
+    font-weight: 400;
+}
+.user-component__column:last-child {
+    color: rgba(0,0,0,0.5);
+}
